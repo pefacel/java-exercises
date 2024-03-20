@@ -7,7 +7,7 @@ public class Resistance {
         double resistance;
         do {
             System.out.println("Ingrese resistencia " + resistanceNumber + ":");
-            resistance = sc.nextLong();
+            resistance = sc.nextDouble();
             if (resistance <= 0) {
                 System.out.println("Resistencia debe se mayor a 0.");
             }
