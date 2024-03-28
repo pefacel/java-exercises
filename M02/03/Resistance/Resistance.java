@@ -22,8 +22,8 @@ public class Resistance {
         double resistanceThree = getResistanceFromPromt(3);
 
         double resistanceTotal = (1 / (1 / resistanceOne) + (1 / resistanceTwo) + (1 / resistanceThree));
-        System.out.println("La resistencia total es de " +resistanceTotal );
-      
+        System.out.println("La resistencia total es de " + resistanceTotal);
+
     }
 
 }
