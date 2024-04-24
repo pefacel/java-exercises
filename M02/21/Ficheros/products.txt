@@ -1,0 +1,2 @@
+Product [article=Jean, price=112, description=Jeans azules, code=001, size=xl, brand=Lewis, color=Azul]
+Product [article=dgs, price=gsd, description=gsd, code=gds, size=gds, brand=gs, color=g]
