@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         FileService fileService = new FileService();
 
-        String directoryPath = "directorios";
+        String directoryPath = "directories";
         String fileName = "texto.txt";
 
         ArrayList<String> list = new ArrayList<String>();
