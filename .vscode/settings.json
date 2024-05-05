@@ -1,3 +1,13 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "M02/21",
+        "M02/20",
+        "M02/12/Patterns",
+        "M02/09",
+        "M02/08",
+        "M02/06/Dates",
+        "M02/03/Resistance",
+        "M02/14"
+    ]
 }
